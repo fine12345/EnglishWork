@@ -42,7 +42,7 @@
 * [ ] 喵喵喵
 
 '''C++
-	#include<iostream>
+	#include<iostream>;
 	#using namespace std;
 
 	int main()
