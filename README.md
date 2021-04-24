@@ -1,6 +1,6 @@
 ####四级本地喵
 
-![本地喵](/img/1.jpg)
+![本地喵](/img/https://github.com/fine12345/EnglishWork/blob/main/img/1.jpg?raw=true)
 
 *喵*
 
