@@ -41,7 +41,7 @@
 * [x] 喵喵
 * [ ] 喵喵喵
 
-'''
+'''C++
 	#include<iostream>
 	#using namespace std;
 
